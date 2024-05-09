@@ -21,9 +21,14 @@ Follow these steps to set up the Recipe Sharing Platform:
 
 2. **Install dependencies:**
     1. create virtual env for install lib
-    - python -m venv env 
+    - ``` 
+        python -m venv env
+      ```
+ 
     2. install all dependecies 
-    - pip install -r requirements.txt
+    - ```
+        pip install -r requirements.txt
+      ```
 
 3. **Set up the database:**
 - The platform uses SQLite database.
