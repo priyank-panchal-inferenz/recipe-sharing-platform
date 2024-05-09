@@ -1,0 +1,30 @@
+.idea/*
+.vscode/*
+
+__pycache__/
+
+*.pyc
+*.py[cod]
+*$py.class
+
+*.sqlite3
+backend/db.sqlite3
+
+backend/venv
+env/
+local_settings.py
+firebase_cred.py
+
+backend/media
+ML_Models
+staticFiles
+logs/
+logs/*.log
+
+# frontend files
+node_modules
+# fixed this problem it's created problem in production.
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
