@@ -1,4 +1,5 @@
 """
+Author By : Priyank Panchal
 URL configuration for recipe project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
